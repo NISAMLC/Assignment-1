@@ -3,7 +3,6 @@
 
 # # Assignment-1
 
-# In[5]:
 
 
 x=[]
@@ -26,7 +25,7 @@ print(x)
 
 # # Assignment-2
 
-# In[8]:
+
 
 
 first_name = input("enter your first name ")
@@ -36,7 +35,6 @@ print(first_name, '' +  last_name)
 
 # # Assignment-3
 
-# In[16]:
 
 
 diameter =12
